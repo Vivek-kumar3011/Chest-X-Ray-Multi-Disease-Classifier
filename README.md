@@ -14,3 +14,6 @@ Test set: 17,015 images (labels hidden)
 Image format: PNG, grayscale converted to RGB
 Label type: Single-label multi-class (exactly one condition per image)
 The 20 classes are: Atelectasis, Cardiomegaly, Consolidation, Edema, Effusion, Emphysema, Fibrosis, Hernia, Infiltration, Mass, Nodule, Pleural Thickening, Pneumonia, Pneumothorax, Pneumoperitoneum, Pneumomediastinum, Subcutaneous Emphysema, Tortuous Aorta, Calcification of the Aorta, and No Finding.
+
+
+Kaggle Competition: https://www.kaggle.com/competitions/26-t-1-dl-gen-ainppe-1
